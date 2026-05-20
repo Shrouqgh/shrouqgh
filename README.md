@@ -15,13 +15,11 @@ Here are some ideas to get you started:
 -->
 
 
-# Hi, I'm a Senior Data Strategy Consultant & Data Scientist 👋
+## Hi, I'm a Senior Data Strategy Consultant & Data Scientist 👋
 
 An impact-driven Data Scientist specializing in consumer analytics, large-scale behavior segmentation, and marketing attribution modeling. I translate high-volume transactional data into executive-ready strategic roadmaps that recover revenue leakages and optimize promotional spend.
 
----
-
-## Core Technical Expertise
+### Core Technical Expertise
 * **Languages & Core Analytics:** Python (Pandas, NumPy, Scikit-Learn, SciPy), SQL (BigQuery, PostgreSQL), R, Excel (VBA)
 * **Methodologies:** Customer Lifecycle Segmentation (RFM), Market Basket Analysis (Apriori/Association Rules), Full-Funnel Measurement Strategy, Cohort Analysis, Consumer behavior, CLV, Forecasting & Predictive Analytics, competitive intelligence
 * **Data Visualization & Strategy:** Looker Studio, Tableau, Executive Dashboard Architecture, Commercial Opportunity Sizing
@@ -42,7 +40,7 @@ An impact-driven Data Scientist specializing in consumer analytics, large-scale 
 
 -->
 
-## Connect with Me
+### Connect with Me
 * **LinkedIn:** [http://linkedin.com/in/shrouq-alghamdi]
 <!-- * **Upwork:** [Your Upwork Profile Link Here]-->
 * **Email:** [shrouq.s.ghamdi@gmail.com]
