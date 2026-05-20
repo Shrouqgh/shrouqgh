@@ -22,7 +22,7 @@ An impact-driven Data Scientist specializing in consumer analytics, large-scale 
 ---
 
 ## Core Technical Expertise
-* **Languages & Core Analytics:** Python (Pandas, NumPy, Scikit-Learn, SciPy), SQL (BigQuery, PostgreSQL)
+* **Languages & Core Analytics:** Python (Pandas, NumPy, Scikit-Learn, SciPy), SQL (BigQuery, PostgreSQL), R, Excel (VBA)
 * **Methodologies:** Customer Lifecycle Segmentation (RFM), Market Basket Analysis (Apriori/Association Rules), Full-Funnel Measurement Strategy, Cohort Analysis, Consumer behavior, CLV, Forecasting & Predictive Analytics, competitive intelligence
 * **Data Visualization & Strategy:** Looker Studio, Tableau, Executive Dashboard Architecture, Commercial Opportunity Sizing
 
