@@ -28,7 +28,7 @@ An impact-driven Data Scientist specializing in consumer analytics, large-scale 
 
 ---
 
-## Featured Case Studies (NDA-Compliant Implementations)
+<!--## Featured Case Studies (NDA-Compliant Implementations)
 
 ### [1. Customer Lifecycle Segmentation & Revenue Opportunity Mapping](https://github.com/YOUR-USERNAME/customer-lifecycle-segmentation)
 * **Context:** Analyzed historical transactional trends across a database of **9 Million user profiles** to map category-level churn.
@@ -40,7 +40,7 @@ An impact-driven Data Scientist specializing in consumer analytics, large-scale 
 * **Key Action:** Mapped multi-category historical transactions to isolate exact basket adjacencies, revealing that **26% of converting targets** routinely co-purchased highly correlated companion product classes.
 * **Impact:** Validated a clear **11.4% to 32% user return rate** across target classes and mapped brand-cannibalization matrices to reduce margin wear.
 
----
+-->
 
 ## Connect with Me
 * **LinkedIn:** [http://linkedin.com/in/shrouq-alghamdi]
