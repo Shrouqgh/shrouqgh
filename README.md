@@ -38,8 +38,8 @@ An impact-driven Data Scientist specializing in consumer analytics, large-scale 
 * **Key Action:** Mapped multi-category historical transactions to isolate exact basket adjacencies, revealing that **26% of converting targets** routinely co-purchased highly correlated companion product classes.
 * **Impact:** Validated a clear **11.4% to 32% user return rate** across target classes and mapped brand-cannibalization matrices to reduce margin wear.
 
--->
 
 
 
 > **Confidentiality Note:** In compliance with strict professional NDAs, institutional identifiers and raw commercial financial figures in these repositories have been fully anonymized, mock-synthesized, or scaled into relative metrics without altering the mathematical logic or technical architecture of the workflows.
+-->
