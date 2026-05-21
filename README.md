@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 -->
 
 
-## Hi, I'm a Senior Data Strategy Consultant & Data Scientist 👋
+## Hey, I'm Shrouq, a Senior Data Scientist & Data Strategy Consultant!
 
-An impact-driven Data Scientist specializing in consumer analytics, large-scale behavior segmentation, and marketing attribution modeling. I translate high-volume transactional data into executive-ready strategic roadmaps that recover revenue leakages and optimize promotional spend.
+I am an impact-driven Data Scientist specializing in advanced analytics, machine learning lifecycle management, and busniess attribution modeling. I translate high-volume data into executive-ready strategic roadmaps that recover resource leakages, automate data funnels, and optimize operations.
 
 ### Core Technical Expertise
 * **Languages & Core Analytics:** Python (Pandas, NumPy, Scikit-Learn, SciPy), SQL (BigQuery, PostgreSQL), R, Excel (VBA)
-* **Methodologies:** Customer Lifecycle Segmentation (RFM), Market Basket Analysis (Apriori/Association Rules), Full-Funnel Measurement Strategy, Cohort Analysis, Consumer behavior, CLV, Forecasting & Predictive Analytics, competitive intelligence
+* **Methodologies:** Customer Lifecycle Segmentation (RFM), Market Basket Analysis (Apriori/Association Rules), Full-Funnel Measurement Strategy, Churn Analysis, Consumer behavior, CLV, Forecasting & Predictive Analytics, NLP (BERT), Entity Resolution, and fraud detection
 * **Data Visualization & Strategy:** Looker Studio, Tableau, Executive Dashboard Architecture, Commercial Opportunity Sizing
 
 ---
