@@ -40,12 +40,6 @@ An impact-driven Data Scientist specializing in consumer analytics, large-scale 
 
 -->
 
-### Connect with Me
-* **LinkedIn:** [http://linkedin.com/in/shrouq-alghamdi]
-<!-- * **Upwork:** [Your Upwork Profile Link Here]-->
-* **Email:** [shrouq.s.ghamdi@gmail.com]
-
-
 
 
 > **Confidentiality Note:** In compliance with strict professional NDAs, institutional identifiers and raw commercial financial figures in these repositories have been fully anonymized, mock-synthesized, or scaled into relative metrics without altering the mathematical logic or technical architecture of the workflows.
