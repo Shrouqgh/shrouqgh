@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-## Hey, I'm Shrouq, a Data Scientist
+## Shrouq – Data Scientist
 
 I specialize in advanced analytics, machine learning lifecycle management, and busniess attribution modeling. I translate high-volume data into executive-ready strategic roadmaps that recover resource leakages, automate data funnels, and optimize operations.
 
