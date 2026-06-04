@@ -1,6 +1,6 @@
-<!-- ## Hi there 👋
+<!-- ## Hi
 
-**Shrouqgh/shrouqgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Shrouqgh/shrouqgh** is a _special_ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 -->
 
 
-## Hey, I'm Shrouq, a Senior Data Scientist & Data Strategy Consultant!
+## Hey, I'm Shrouq, a Data Scientist
 
-I am an impact-driven Data Scientist specializing in advanced analytics, machine learning lifecycle management, and busniess attribution modeling. I translate high-volume data into executive-ready strategic roadmaps that recover resource leakages, automate data funnels, and optimize operations.
+I specialize in advanced analytics, machine learning lifecycle management, and busniess attribution modeling. I translate high-volume data into executive-ready strategic roadmaps that recover resource leakages, automate data funnels, and optimize operations.
 
 ### Core Technical Expertise
-* **Languages & Core Analytics:** Python (Pandas, NumPy, Scikit-Learn, SciPy), SQL (BigQuery, PostgreSQL), R, Excel (VBA)
+* **Languages & Core Analytics:** Python, SQL (BigQuery, PostgreSQL), R, Excel (VBA)
 * **Methodologies:** Customer Lifecycle Segmentation (RFM), Market Basket Analysis (Apriori/Association Rules), Full-Funnel Measurement Strategy, Churn Analysis, Consumer behavior, CLV, Forecasting & Predictive Analytics, NLP (BERT), Entity Resolution, and fraud detection
 * **Data Visualization & Strategy:** Looker Studio, Tableau, Executive Dashboard Architecture, Commercial Opportunity Sizing
 
